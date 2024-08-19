@@ -52,7 +52,6 @@ html {
       background: #fff;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       transition: box-shadow 0.3s ease, transform 0.3s ease;
-      /* Новый стиль для учета padding */
     }
 
     input:focus {
@@ -66,8 +65,7 @@ html {
     display: flex;
     align-items: center;
     width: 100%;
-    margin-top: 5px; /* Увеличение верхнего отступа */
-    /* Новый стиль для учета padding */
+    margin-top: 5px;
   }
 
   .currency-symbol {

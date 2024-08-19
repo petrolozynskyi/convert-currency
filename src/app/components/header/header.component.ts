@@ -15,7 +15,7 @@ export class HeaderComponent implements OnInit {
   constructor(private currencyService: CurrencyConverterService) {}
 
   ngOnInit(): void {
-    this.fetchSpecificRates(); // Fetch specific rates for USD to EUR and UAH
+    this.fetchSpecificRates();
   }
 
   fetchSpecificRates(): void {
