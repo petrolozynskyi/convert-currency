@@ -1,5 +1,5 @@
 # Demo Version
-(https://petrolozynskyi.github.io/convert-currency/)
+https://petrolozynskyi.github.io/convert-currency/
 
 
 # ConvertCurrency
